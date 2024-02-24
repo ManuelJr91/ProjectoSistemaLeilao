@@ -1,2 +1,2 @@
 # ProjectoSistemaLeilao
-Sistema de Gestao de Lances de Leilao
+Sistema de Gestao de Lances de Leilao.
